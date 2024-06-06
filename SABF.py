@@ -1,3 +1,4 @@
+# Algoritma Brute Force
 import csv
 import pandas as pd
 from operator import itemgetter
@@ -60,7 +61,7 @@ def main():
     print("Top 10 Perusahaaan yang dapat dipilih")
     for i in range(len(namaHasil)):
         print("Nama Perusahaan               : ", namaHasil[i][1])
-        print("Lembar (maksimal)             : ", int(budget/codeHasil[i][2]), " lot")
+        print("Lembar (maksimal)             : ", int(budget/codeHasil[i][2]), " lembar")
         print("Harga Saham (yang terdata)    : ", codeHasil[i][2])
         print()
     print("Waktu :", (end-start)*1000)

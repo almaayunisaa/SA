@@ -1,3 +1,4 @@
+# Algoritma Greedy
 import csv
 import pandas as pd
 from operator import itemgetter
@@ -57,7 +58,7 @@ def main():
     print("Top 10 Perusahaaan yang dapat dipilih")
     for i in range(len(namaHasil)):
         print("Nama Perusahaan               : ", namaHasil[i])
-        print("Lembar (maksimal)             : ", int(budget/hargaHasil[i]), " lot")
+        print("Lembar (maksimal)             : ", int(budget/hargaHasil[i]), " lembar")
         print("Harga Saham (terbaru)         : ", hargaHasil[i])
         print()
     print("Waktu :", (end-start)*1000)
