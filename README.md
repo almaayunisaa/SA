@@ -1,4 +1,4 @@
-Tugas Besar Strategi ALgoritma 
+Tugas Besar Strategi Algoritma 
 Kelompok 3:
 1. Azizah Salma Ayunisa Purnomo (1301220021) 
 2. Diva Sri Anggraeny (1301220211)
