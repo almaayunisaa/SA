@@ -1,1 +1,1 @@
-Proyek ini adalah model untuk mengetahui saham pada beberapa perusahaan mana yang akan menguntungkan berdasarkan dataset yang ada. Digunakan metode Greedy dan Brute Force untuk mengetahui perusahaan yang paling baik untuk dibeli sahamnya.
+Proyek ini adalah model untuk mengetahui saham pada beberapa perusahaan mana yang akan menguntungkan berdasarkan dataset yang ada. Digunakan metode Greedy dan Brute Force untuk mengetahui perusahaan yang paling baik untuk dibeli sahamnya. Menggunakan metode Moving Average dapat diketahui prediksi harga saham perusahaan.
